@@ -1,0 +1,6 @@
+framework module Pods_videoTest {
+  umbrella header "Pods-videoTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
